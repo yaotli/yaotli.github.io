@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yao-Tsun Li"
+title                    : "Homepage of Yao-Tsun"
 title_separator          : "-"
 name                     : &name "Yao-Tsun Li"
 description              : &description "Homepage"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yao-Tsun Li"
-  avatar           : "photo_taichung.jpg"
+  avatar           : "photo.jpg"
   bio              : "PhD candidate at Duke-NUS Medical School"
   location         : "Singapore/Taiwan"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yaotli"
+  github           : "yaotli"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/yaotsunli"
+  twitter          : "yaotsunli"
   vine             :
   weibo            :
   xing             :
