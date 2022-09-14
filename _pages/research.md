@@ -9,7 +9,7 @@ redirect_from:
 
 Population bottleneck of H5N1 and the emergence of H5Nx 
 :   source: [n1tonx](https://github.com/yaotli/n1tonx)
-:   publication: H5Nx viruses emerged during the suppression of H5N1 virus populations in poultry (_under review_)
+:   publication: [H5Nx viruses emerged during the suppression of H5N1 virus populations in poultry](https://journals.asm.org/doi/abs/10.1128/Spectrum.01309-21) (2021)
 
 Co-circulation of both low and high pathogenic H5 in Taiwan
 :   source: [minion-influenza](https://github.com/yaotli/minion-influenza)

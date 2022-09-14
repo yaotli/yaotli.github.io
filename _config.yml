@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yao-Tsun Li"
   avatar           : "photo.jpg"
-  bio              : "PhD candidate at Duke-NUS Medical School"
-  location         : "Singapore/Taiwan"
+  bio              : "Postdoc at University of Glasgow"
+  location         : "Glasgow/Taiwan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=7UOwOO0AAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=7UOwOO0AAAAJ&hl"
   email            : "yaotli@u.duke.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
