@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at School of Biodiversity, One Health & Veterinary Medicine, University of Glasgow. My research interests have been characterising different viral pathogens isolated from the field or clinical context with an aim to understand their transmission patterns and to inform control measures. 
-
-My PhD thesis work focuses on a new lineage of highly pathogenic avian influenza H5 viruses, usually called H5Nx, that is distinct from the previously dominant H5N1 virus. By analyzing available viral sequences using evolutionary biology methods, our results related the emergence of the new viral lineage with the population dynamics of the ancestral/co-circulating H5N1 lineages. I was also in charge of a field project using a nanopore sequencing technique to study the current H5 endemic in Taiwan. I believe phylogenetic methods combined with advanced sequencing techniques should play a critical role in infectious disease control. 
+My research interests lie in the ecology, genetics, and molecular epidemiology of viral pathogens. My research work includes using evolutionary approaches to reconstruct the transmission dynamics of animal or human viruses from outbreaks and surveillance data, and developing laboratory methods to detect pathogens and recover their genomes. My research aims to better understand the viral disease ecosystem in Taiwan and globally, to inform disease control measures.

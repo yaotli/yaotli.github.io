@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Yao-Tsun"
+title                    : "Viral Resp. Diseases Lab"
 title_separator          : "-"
 name                     : &name "Yao-Tsun Li"
-description              : &description "Homepage"
+description              : &description "Viral Respiratory Diseases Laboratory, Taiwan Centers for Disease Control"
 url                      : https://yaotli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yaotli/yaotli.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yao-Tsun Li"
   avatar           : "photo.jpg"
-  bio              : "Postdoc at University of Glasgow"
-  location         : "Glasgow/Taiwan"
+  bio              : "Associate Researcher at Taiwan CDC"
+  location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7UOwOO0AAAAJ&hl"
-  email            : "yaotli@u.duke.nus.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=7UOwOO0AAAAJ&hl=en"
+  email            : "nprotei@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yaotsunli"
+  bluesky          : "yaotli.bsky.social"
   vine             :
   weibo            :
   xing             :

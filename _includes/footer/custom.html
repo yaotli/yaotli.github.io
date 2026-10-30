@@ -1,2 +1,24 @@
 <!-- start custom footer snippets -->
+
+<!-- open links that leave the site in a new tab -->
+<script>
+  (function () {
+    function openExternalInNewTab() {
+      var links = document.querySelectorAll(".page__content a[href]");
+      for (var i = 0; i < links.length; i++) {
+        var link = links[i];
+        if (link.hostname && link.hostname !== window.location.hostname) {
+          link.setAttribute("target", "_blank");
+          link.setAttribute("rel", "noopener noreferrer");
+        }
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", openExternalInNewTab);
+    } else {
+      openExternalInNewTab();
+    }
+  })();
+</script>
+
 <!-- end custom footer snippets -->
